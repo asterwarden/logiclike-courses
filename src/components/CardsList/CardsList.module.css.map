@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY;EACV,OAAO,EAAE,WAAW;EACpB,qBAAqB,EAAE,cAAc;EACrC,GAAG,EAAE,IAAI;EACT,KAAK,EAAE,IAAI;EAEX,0BAA2B;IAN7B,WAAY;MAOR,qBAAqB,EAAE,cAAc;EAGvC,yBAA0B;IAV5B,WAAY;MAWR,qBAAqB,EAAE,GAAG",
+"sources": ["CardsList.module.scss"],
+"names": [],
+"file": "CardsList.module.css"
+}

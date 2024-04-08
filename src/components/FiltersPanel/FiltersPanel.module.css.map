@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAc;EACZ,KAAK,EAAE,KAAK;EACZ,IAAI,EAAE,SAAS;EACf,MAAM,EAAE,IAAI;EACZ,MAAM,EAAE,iBAAiB;EACzB,aAAa,EAAE,IAAI;EACnB,OAAO,EAAE,IAAI",
+"sources": ["FiltersPanel.module.scss"],
+"names": [],
+"file": "FiltersPanel.module.css"
+}

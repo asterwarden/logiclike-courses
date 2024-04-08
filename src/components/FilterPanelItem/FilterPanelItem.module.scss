@@ -1,0 +1,18 @@
+.filter-panel-items {
+  border-radius: 12px;
+  color: #39414B;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: -0.1px;
+  padding: 12px;
+
+  &:hover, &.active {
+    background-color: #5FBF77;
+
+    & > * {
+      color: #FFFFFF;
+    }
+  }
+}
+

@@ -1,0 +1,14 @@
+.filter-panel-items {
+  border-radius: 12px;
+  color: #39414B;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: -0.1px;
+  padding: 12px; }
+  .filter-panel-items:hover, .filter-panel-items.active {
+    background-color: #5FBF77; }
+    .filter-panel-items:hover > *, .filter-panel-items.active > * {
+      color: #FFFFFF; }
+
+/*# sourceMappingURL=FilterPanelItem.module.css.map */

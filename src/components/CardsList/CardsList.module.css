@@ -1,0 +1,13 @@
+.cards-list {
+  display: inline-grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  width: 100%; }
+  @media (max-width: 1200px) {
+    .cards-list {
+      grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 900px) {
+    .cards-list {
+      grid-template-columns: 1fr; } }
+
+/*# sourceMappingURL=CardsList.module.css.map */
